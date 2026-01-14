@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Coin
+  - Mushroom
+  - Info
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - backGround
+  - floor
+  - coins
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2960854911
+    locked: 0
+  - name: extras
+    uniqueID: 2244904663
+    locked: 0
+  - name: floor
+    uniqueID: 69554297
+    locked: 0
+  - name: Coin
+    uniqueID: 1142926351
+    locked: 0
+  - name: Mushroom
+    uniqueID: 2805896529
+    locked: 0
+  - name: Player
+    uniqueID: 1722171535
+    locked: 0
+  - name: Info
+    uniqueID: 1507813689
+    locked: 0
+  m_RenderingLayers:
+  - Default
