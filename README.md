@@ -16,6 +16,7 @@ Block Dodger
   - Cloud sprite is from www.flaticon.com (made by Freepik)
   - Dog sprite is from www.flaticon.com (made by Mihimihi)
   - Wooden Box is from www.flaticon.com (made by Kerismaker)
+    
 Platform Game
   Art Assets:
   - Ninja character and tile set (all objects other than the ninja and also the background) sprites are provided from GameArt2D.com
