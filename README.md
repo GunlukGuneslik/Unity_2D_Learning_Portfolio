@@ -31,6 +31,10 @@ My Unity 2D learning projects.
 ## Game 3: Platform Game
 **Click the image to watch gameplay video**
 
+<a href="https://github.com/user-attachments/assets/04ef0be4-a6c2-486b-907b-9725c7e0a85f">
+  <img src="https://github.com/user-attachments/assets/4aab6b61-07b0-4dc5-87ae-ecd243e282c0" width="400" />
+</a>
+
   ### 🖼️ Art Assets:
   - Ninja character and tile set (all objects other than the ninja and also the background) sprites are provided from GameArt2D.com
   - Hart icon from www.flaticon.com (made by Meaicon)
