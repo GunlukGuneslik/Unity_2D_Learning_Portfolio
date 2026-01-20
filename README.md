@@ -28,3 +28,15 @@ Platform Game
     
   Sound Effects:
   - Coin drop and damage audios from Pixabay.com
+
+
+Block Breaking
+
+  Art Assets:
+  - All assets are made by myself via piskelapp.com
+    
+  Sound Assets:
+
+  <img width="512" height="512" alt="heart" src="https://github.com/user-attachments/assets/39049e92-f041-44bc-aff3-ead725122c64" />
+
+
