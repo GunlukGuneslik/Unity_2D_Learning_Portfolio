@@ -4,7 +4,7 @@ My Unity 2D learning projects.
 ## Game 1: 🎈 Ballon Popper
 **Click the image to watch gameplay video**
 
-<a href="https://github.com/user-attachments/assets/e1d5f37d-41ef-49e3-acdc-c0bc0bdb0dcd"><img src="https://github.com/user-attachments/assets/c8e45346-2074-48a1-8784-c0003f5da90b" height="60" /></a>
+<a href="https://github.com/user-attachments/assets/40a9eb73-c24d-4787-8c7b-eacd19444523"><img src="https://github.com/user-attachments/assets/1ed1af5d-435c-4be7-82a4-517a30950706" height="60" /></a>
 
   ### 🖼️ Art Assets: 
   - Ballon sprite provided by GameDeveloperStudio.com (Robert Brooks)
