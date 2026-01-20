@@ -5,7 +5,7 @@ My Unity 2D learning projects.
 **Click the image to watch gameplay video**
 
 <a href="https://github.com/user-attachments/assets/1ed1af5d-435c-4be7-82a4-517a30950706">
-  <img src="https://github.com/user-attachments/assets/40a9eb73-c24d-4787-8c7b-eacd19444523" width="100" />
+  <img src="https://github.com/user-attachments/assets/40a9eb73-c24d-4787-8c7b-eacd19444523" width="150" />
 </a>
 
   ### 🖼️ Art Assets: 
