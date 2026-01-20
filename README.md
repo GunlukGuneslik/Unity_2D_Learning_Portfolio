@@ -31,7 +31,8 @@ https://github.com/user-attachments/assets/e1d5f37d-41ef-49e3-acdc-c0bc0bdb0dcd
 
 
 ## Game 4: 💥 Block Breaking
-** Click the image to watch gameplay video **
+**Click the image to watch gameplay video**
+
 <a href="https://github.com/user-attachments/assets/c1708bd9-027a-42e8-bc60-6a6818cc8c26">
   <img src="https://github.com/user-attachments/assets/ce3cc168-ca12-4498-a447-1c759e24361d" width="400" />
 </a>
