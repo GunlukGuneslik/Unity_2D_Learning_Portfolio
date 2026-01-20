@@ -2,8 +2,11 @@
 My Unity 2D learning projects.
 
 ## Game 1: 🎈 Ballon Popper
+**Click the image to watch gameplay video**
 
-https://github.com/user-attachments/assets/e1d5f37d-41ef-49e3-acdc-c0bc0bdb0dcd
+<a href="https://github.com/user-attachments/assets/e1d5f37d-41ef-49e3-acdc-c0bc0bdb0dcd">
+  <img src="https://github.com/user-attachments/assets/c8e45346-2074-48a1-8784-c0003f5da90b" width="400" />
+</a>
 
   ### 🖼️ Art Assets: 
   - Ballon sprite provided by GameDeveloperStudio.com (Robert Brooks)
@@ -13,6 +16,7 @@ https://github.com/user-attachments/assets/e1d5f37d-41ef-49e3-acdc-c0bc0bdb0dcd
   - Balloon pop audio from Pixabay.com
 
 ## Game 2: Block Dodger
+**Click the image to watch gameplay video**
 
   ### 🖼️ Art Assets:
   - Tile set (floor) is provided from gamedeveloperstudio.com (Robert Brooks)
@@ -21,6 +25,7 @@ https://github.com/user-attachments/assets/e1d5f37d-41ef-49e3-acdc-c0bc0bdb0dcd
   - Wooden Box is from www.flaticon.com (made by Kerismaker)
     
 ## Game 3: Platform Game
+**Click the image to watch gameplay video**
 
   ### 🖼️ Art Assets:
   - Ninja character and tile set (all objects other than the ninja and also the background) sprites are provided from GameArt2D.com
