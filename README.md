@@ -18,7 +18,9 @@ My Unity 2D learning projects.
 ## Game 2: Block Dodger
 **Click the image to watch gameplay video**
 
-<a href="https://github.com/user-attachments/assets/fe619837-5dd6-4899-8643-a39c6a511936"><img src="https://github.com/user-attachments/assets/d8fe3b5f-a71b-411c-b7de-c3020c2b9f06" width="400" /></a>
+<a href="https://github.com/user-attachments/assets/fe619837-5dd6-4899-8643-a39c6a511936">
+  <img src="https://github.com/user-attachments/assets/d8fe3b5f-a71b-411c-b7de-c3020c2b9f06" width="400" />
+</a>
 
   ### 🖼️ Art Assets:
   - Tile set (floor) is provided from gamedeveloperstudio.com (Robert Brooks)
