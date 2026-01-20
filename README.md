@@ -36,7 +36,8 @@ Block Breaking
   - All assets are made by myself via piskelapp.com
     
   Sound Assets:
+  - Break and Hit sounds are from Pixabay.com (made by Stu9)
 
-  <img width="512" height="512" alt="heart" src="https://github.com/user-attachments/assets/39049e92-f041-44bc-aff3-ead725122c64" />
+
 
 
