@@ -18,6 +18,8 @@ My Unity 2D learning projects.
 ## Game 2: Block Dodger
 **Click the image to watch gameplay video**
 
+<a href="https://github.com/user-attachments/assets/b0a626ca-f343-4fd2-9344-9b40f14b332a"><img src="https://github.com/user-attachments/assets/6ec6e34e-070c-466a-814b-84e6f1027601" width="150" /></a>
+
   ### 🖼️ Art Assets:
   - Tile set (floor) is provided from gamedeveloperstudio.com (Robert Brooks)
   - Cloud sprite is from www.flaticon.com (made by Freepik)
