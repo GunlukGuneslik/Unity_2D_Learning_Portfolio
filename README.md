@@ -3,6 +3,8 @@ My Unity 2D learning projects.
 
 ## Game 1: 🎈 Ballon Popper
 
+https://github.com/user-attachments/assets/e1d5f37d-41ef-49e3-acdc-c0bc0bdb0dcd
+
   ### 🖼️ Art Assets: 
   - Ballon sprite provided by GameDeveloperStudio.com (Robert Brooks)
   - Hart icon from www.flaticon.com (made by Meaicon)
@@ -30,10 +32,7 @@ My Unity 2D learning projects.
 
 ## Game 4: 💥 Block Breaking
 
-
 https://github.com/user-attachments/assets/c1708bd9-027a-42e8-bc60-6a6818cc8c26
-
-
 
   ### 🎨 Art Assets:
   - All assets are made by myself via piskelapp.com
