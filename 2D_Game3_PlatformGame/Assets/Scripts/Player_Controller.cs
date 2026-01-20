@@ -6,12 +6,12 @@ public class Player_Controller : MonoBehaviour
 {
     bool gameIsOver;
     int health;
-    bool waitForDamage;
     public GameObject[] harts;
     int initialCoins;
     int currentCoins;
     public float speed;
     float x;
+    public float y;
 
     Rigidbody2D rb;
     Animator anim;
@@ -29,6 +29,8 @@ public class Player_Controller : MonoBehaviour
     float doublJumFroce;
     bool doubleJump;
 
+    bool waitForDamage;
+
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -37,7 +39,6 @@ public class Player_Controller : MonoBehaviour
         doubleJump = true;
         doublJumFroce = jumForce - 1;
         health = (harts.Length > 0)? (harts.Length - 1):-1;
-        waitForDamage = false;
         gameIsOver = false;
 
         lostMessage.enabled = false;
@@ -46,6 +47,8 @@ public class Player_Controller : MonoBehaviour
 
         initialCoins = GameObject.FindGameObjectsWithTag("Coin").Length;
         currentCoins = 0;
+
+        waitForDamage = false;
     }
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start(){}
@@ -53,6 +56,7 @@ public class Player_Controller : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        y = rb.linearVelocityY;
         if (health < 0) {
             gameIsOver = true;
             lostMessage.enabled = true;
@@ -86,21 +90,10 @@ public class Player_Controller : MonoBehaviour
             if (isGrounded)
             {
                 doubleJump = true;
-                if (!waitForDamage && health >= 0 && rb.linearVelocity.y < -10f)
-                {
-                    damage();
-                    waitForDamage = true;
-                }
-                else if (rb.linearVelocity.y > -10f)
-                {
-                    waitForDamage = false;
-                }
             }
 
             anim.SetBool("IsGrounded", isGrounded);
             anim.SetFloat("Speed", Mathf.Abs(rb.linearVelocity.x));
-
-            //temp.text = "" + rb.linearVelocity.y;
         }
     }
 
@@ -110,7 +103,6 @@ public class Player_Controller : MonoBehaviour
 
     private void FixedUpdate()
     {
-        //transform.Translate(x, 0, 0);
         rb.linearVelocity = new Vector2(x * speed, rb.linearVelocity.y);
     }
 
@@ -138,6 +130,23 @@ public class Player_Controller : MonoBehaviour
         } else if (health >= 0 && collision.gameObject.tag == "Mushroom") {
             damage();
             Destroy(collision.gameObject);
+        }
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "floor") {
+            if (!waitForDamage && health >= 0 && collision.relativeVelocity.y >= 10f) {
+                waitForDamage = true;
+                damage();
+            }
+        }
+    }
+
+    private void OnCollisionExit2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "floor") {
+            waitForDamage = false;
         }
     }
 }
