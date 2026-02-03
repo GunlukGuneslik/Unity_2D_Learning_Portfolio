@@ -56,10 +56,9 @@ My Unity 2D learning projects.
   ### 🔊 Sound Assets:
   - Break and Hit sounds are from Pixabay.com (made by Stu9)
 
+## Game 5: 🚀 Space Shooter
 
-
-
-
-
-
-
+### 🖼️🖌️ Art Assets:
+  - Controller and Enemy sprites are made by myself via piskelapp.com
+  - cross-hair icon is from www.flaticon.com (made by Culmbio)
+  - Background image from itch.io (made by Deep-Fold)
