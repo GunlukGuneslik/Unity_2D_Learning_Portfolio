@@ -57,6 +57,11 @@ My Unity 2D learning projects.
   - Break and Hit sounds are from Pixabay.com (made by Stu9)
 
 ## Game 5: 🚀 Space Shooter
+**Click the image to watch gameplay video**
+
+<a href="https://github.com/user-attachments/assets/ee719402-1c41-4343-bec6-3d9625579a2d">
+  <img src="https://github.com/user-attachments/assets/9bebb95a-62e0-4ba2-bae8-bcc26b7ff472" width="400" />
+</a>
 
 ### 🖼️🖌️ Art Assets:
   - Controller and Enemy sprites are made by myself via piskelapp.com
